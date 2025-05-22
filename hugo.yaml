@@ -15,18 +15,18 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: LuxVibe
         weight: 1
         params:
             sidebar:
-                subtitle: Example description
+                subtitle: "Discover the world's finest luxury replica handbags, watches, and accessories. Trusted by thousands of customers in Europe and America. Quality guaranteed, discreet shipping, and 24/7 WhatsApp support."
     zh-cn:
         languageName: 中文
-        title: 演示站点
+        title: LuxVibe奢品
         weight: 2
         params:
             sidebar:
-                subtitle: 演示说明
+                subtitle: "精选全球顶级奢侈品包包、手表、配饰1:1高端复刻，欧美客户信赖之选。品质保障，隐私发货，7x24小时WhatsApp客服。"
     ar:
         languageName: عربي
         languagedirection: rtl
@@ -212,7 +212,67 @@ params:
 ### See https://stack.jimmycai.com/config/menu
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-    main: []
+    main:
+        - identifier: home
+          name: Home / 首页
+          url: /
+          weight: 1
+          params:
+            icon: home
+        - identifier: knowledge
+          name: Luxury Knowledge / 奢侈品知识
+          url: /categories/奢侈品知识/
+          weight: 2
+          params:
+            icon: book
+        - identifier: brand
+          name: Brand Stories / 品牌故事
+          url: /categories/品牌故事/
+          weight: 3
+          params:
+            icon: star
+        - identifier: auth
+          name: Authentication Tips / 鉴定技巧
+          url: /categories/鉴定技巧/
+          weight: 4
+          params:
+            icon: check
+        - identifier: care
+          name: Care & Maintenance / 保养护理
+          url: /categories/保养护理/
+          weight: 5
+          params:
+            icon: heart
+        - identifier: news
+          name: Industry News / 行业资讯
+          url: /categories/行业资讯/
+          weight: 6
+          params:
+            icon: news
+        - identifier: picks
+          name: Product Picks / 产品推荐
+          url: /categories/产品推荐/
+          weight: 7
+          params:
+            icon: diamond
+        - identifier: musthave
+          name: Must-Have List / 种草清单
+          url: /categories/种草清单/
+          weight: 8
+          params:
+            icon: list
+        - identifier: customer
+          name: Customer Stories / 客户案例
+          url: /categories/客户案例/
+          weight: 9
+          params:
+            icon: user
+        - identifier: whatsapp
+          name: WhatsApp
+          url: "https://wa.me/19088661058"
+          weight: 10
+          params:
+            icon: brand-whatsapp
 
     social:
         - identifier: github
