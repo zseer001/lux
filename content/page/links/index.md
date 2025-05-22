@@ -21,12 +21,6 @@ links:
     description: Contact our expert team on WhatsApp for personalized recommendations and premium alternative sourcing.
     website: https://wa.me/19088661058
     image: /images/links/whatsapp.png
-menu:
-    main: 
-        weight: -50
-        params:
-            icon: link
-
 comments: false
 ---
 

@@ -20,18 +20,11 @@ languages:
         params:
             sidebar:
                 subtitle: "Discover the world's finest luxury replica handbags, watches, and accessories. Trusted by thousands of customers in Europe and America. Quality guaranteed, discreet shipping, and 24/7 WhatsApp support."
-    zh-cn:
-        languageName: 中文
-        title: LuxVibe奢品
-        weight: 2
-        params:
-            sidebar:
-                subtitle: "精选全球顶级奢侈品包包、手表、配饰1:1高端复刻，欧美客户信赖之选。品质保障，隐私发货，7x24小时WhatsApp客服。"
     ar:
         languageName: عربي
         languagedirection: rtl
         title: موقع تجريبي
-        weight: 3
+        weight: 2
         params:
             sidebar:
                 subtitle: وصف تجريبي
@@ -214,42 +207,42 @@ params:
 menu:
     main:
         - identifier: home
-          name: Home / 首页
+          name: Home
           url: /
           weight: 1
           params:
             icon: home
         - identifier: knowledge
-          name: Luxury Knowledge / 奢侈品知识
-          url: /categories/奢侈品知识/
+          name: Luxury Knowledge
+          url: /categories/luxury-knowledge/
           weight: 2
         - identifier: brand
-          name: Brand Stories / 品牌故事
-          url: /categories/品牌故事/
+          name: Brand Stories
+          url: /categories/brand-stories/
           weight: 3
         - identifier: auth
-          name: Authentication Tips / 鉴定技巧
-          url: /categories/鉴定技巧/
+          name: Authentication Tips
+          url: /categories/authentication-tips/
           weight: 4
         - identifier: care
-          name: Care & Maintenance / 保养护理
-          url: /categories/保养护理/
+          name: Care & Maintenance
+          url: /categories/care-maintenance/
           weight: 5
         - identifier: news
-          name: Industry News / 行业资讯
-          url: /categories/行业资讯/
+          name: Industry News
+          url: /categories/industry-news/
           weight: 6
         - identifier: picks
-          name: Product Picks / 产品推荐
-          url: /categories/产品推荐/
+          name: Product Picks
+          url: /categories/product-picks/
           weight: 7
         - identifier: musthave
-          name: Must-Have List / 种草清单
-          url: /categories/种草清单/
+          name: Must-Have List
+          url: /categories/must-have-list/
           weight: 8
         - identifier: customer
-          name: Customer Stories / 客户案例
-          url: /categories/客户案例/
+          name: Customer Stories
+          url: /categories/customer-stories/
           weight: 9
         - identifier: whatsapp
           name: WhatsApp
