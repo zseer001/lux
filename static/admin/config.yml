@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: main  # GitHub 仓库主分支名
+  branch: main
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
