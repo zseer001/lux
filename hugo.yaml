@@ -224,7 +224,7 @@ menu:
           url: /categories/奢侈品知识/
           weight: 2
           params:
-            icon: book
+            icon: star
         - identifier: brand
           name: Brand Stories / 品牌故事
           url: /categories/品牌故事/
@@ -254,13 +254,13 @@ menu:
           url: /categories/产品推荐/
           weight: 7
           params:
-            icon: diamond
+            icon: tag
         - identifier: musthave
           name: Must-Have List / 种草清单
           url: /categories/种草清单/
           weight: 8
           params:
-            icon: list
+            icon: tag
         - identifier: customer
           name: Customer Stories / 客户案例
           url: /categories/客户案例/
