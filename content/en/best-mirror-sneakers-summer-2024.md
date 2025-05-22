@@ -32,4 +32,6 @@ image: "/uploads/images-9-.jpg"
 ---
 
 **Want to see real photos or get a price list?**  
-Message us on WhatsApp for the latest catalog and exclusive deals! 
+Message us on WhatsApp for the latest catalog and exclusive deals!
+
+[Contact us on WhatsApp for exclusive offers and real reviews!](https://wa.me/19088661058) 

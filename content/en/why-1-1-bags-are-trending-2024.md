@@ -32,4 +32,6 @@ Looking for a safe, private way to buy? Contact us on [WhatsApp](https://wa.me/1
 ---
 
 **Ready to upgrade your style?**  
-Message us on WhatsApp for a free consultation and product recommendations! 
+Message us on WhatsApp for a free consultation and product recommendations!
+
+[Contact us on WhatsApp for exclusive offers and real reviews!](https://wa.me/19088661058) 

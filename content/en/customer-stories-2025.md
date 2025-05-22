@@ -26,4 +26,6 @@ Discreet shipping, secure payments, and responsive WhatsApp support make shoppin
 ---
 
 **Want to join our happy customers?**  
-Message us on WhatsApp for real reviews and exclusive offers! 
+Message us on WhatsApp for real reviews and exclusive offers!
+
+[Contact us on WhatsApp for exclusive offers and real reviews!](https://wa.me/19088661058) 

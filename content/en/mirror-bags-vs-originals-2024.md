@@ -30,4 +30,6 @@ If you want the look and feel of luxury without the price tag, a high-quality mi
 ---
 
 **Need help choosing?**  
-Contact us on WhatsApp for honest advice and real customer reviews! 
+Contact us on WhatsApp for honest advice and real customer reviews!
+
+[Contact us on WhatsApp for exclusive offers and real reviews!](https://wa.me/19088661058) 

@@ -26,4 +26,6 @@ With top-tier craftsmanship, premium alternatives are harder to distinguish from
 ---
 
 **Need help verifying a bag?**  
-Contact us on WhatsApp for a free consultation and expert review! 
+Contact us on WhatsApp for a free consultation and expert review!
+
+[Contact us on WhatsApp for exclusive offers and real reviews!](https://wa.me/19088661058) 

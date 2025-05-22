@@ -26,4 +26,4 @@ Gen Z shoppers love affordable, high-quality bags that stand out on social media
 ---
 
 **Want to shop the must-have list?**  
-Contact us on WhatsApp for exclusive offers and influencer picks! 
+[Contact us on WhatsApp for exclusive offers and real reviews!](https://wa.me/19088661058) 

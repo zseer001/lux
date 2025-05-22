@@ -24,4 +24,6 @@ High-quality alternatives are now a key part of the luxury market, offering styl
 ---
 
 **Want the latest market insights?**  
-Contact us on WhatsApp for exclusive reports and trend analysis! 
+Contact us on WhatsApp for exclusive reports and trend analysis!
+
+[Contact us on WhatsApp for exclusive offers and real reviews!](https://wa.me/19088661058) 

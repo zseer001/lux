@@ -24,4 +24,6 @@ Classic Chanel designs are being reimagined with bold colors and smart features,
 ---
 
 **Looking for Chanel-inspired styles?**  
-Message us on WhatsApp for premium alternatives and the latest trends! 
+Message us on WhatsApp for premium alternatives and the latest trends!
+
+[Contact us on WhatsApp for exclusive offers and real reviews!](https://wa.me/19088661058) 

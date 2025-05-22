@@ -26,4 +26,6 @@ Biodegradable cleaners and natural conditioners are trending for safe, effective
 ---
 
 **Want a care guide for your bag?**  
-Message us on WhatsApp for personalized tips and product recommendations! 
+Message us on WhatsApp for personalized tips and product recommendations!
+
+[Contact us on WhatsApp for exclusive offers and real reviews!](https://wa.me/19088661058) 
