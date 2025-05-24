@@ -6,6 +6,8 @@ categories: ["Product Picks"]
 tags: ["summer 2025 mirror quality bags", "influencer bag picks", "eco-friendly premium alternatives", "affordable luxury handbags 2025", "Gen Z trending bags", "best premium alternative bags"]
 image: "/uploads/product-picks-2025-3.jpg"
 draft: false
+type: "post"
+layout: "post"
 ---
 
 ![2025 summer influencer picks mirror quality bag](/uploads/product-picks-2025-3.jpg)

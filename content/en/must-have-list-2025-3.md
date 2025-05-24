@@ -6,6 +6,8 @@ categories: ["Must-Have List"]
 tags: ["2025 must-have mirror quality bags", "Gen Z viral bag trends", "eco-friendly premium alternatives", "influencer favorite handbags", "affordable luxury picks 2025", "social media bag recommendations"]
 image: "/uploads/must-have-list-2025-3.jpg"
 draft: false
+type: "post"
+layout: "post"
 ---
 
 ![2025 must-have viral mirror quality bag Gen Z](/uploads/must-have-list-2025-3.jpg)

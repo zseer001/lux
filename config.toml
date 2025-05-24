@@ -1,0 +1,3 @@
+buildFuture = true
+paginate = 20
+mainSections = ["en"] 

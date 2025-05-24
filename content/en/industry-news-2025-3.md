@@ -6,6 +6,8 @@ categories: ["Industry News"]
 tags: ["2025 mirror quality market trends", "AI in luxury bags", "eco-friendly premium alternatives", "Gen Z affordable luxury", "social media bag trends 2025", "premium alternative global news"]
 image: "/uploads/industry-news-2025-3.jpg"
 draft: false
+type: "post"
+layout: "post"
 ---
 
 ![2025 global mirror quality bag market trends AI eco](/uploads/industry-news-2025-3.jpg)

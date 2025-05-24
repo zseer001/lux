@@ -6,6 +6,8 @@ categories: ["Brand Stories"]
 tags: ["2025 luxury brand AI innovation", "sustainable mirror quality bags", "new luxury brands 2025", "affordable luxury trends", "Gen Z premium alternatives", "viral mirror quality handbags"]
 image: "/uploads/brand-stories-2025-3.jpg"
 draft: false
+type: "post"
+layout: "post"
 ---
 
 ![2025 luxury brand AI sustainability mirror quality bag](/uploads/brand-stories-2025-3.jpg)
