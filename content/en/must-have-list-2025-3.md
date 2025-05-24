@@ -1,6 +1,6 @@
 ---
 title: "2025 Must-Have List: Viral Mirror Quality Bags & Premium Alternatives for Gen Z"
-date: 2025-06-02
+date: 2024-03-19
 description: "See the 2025 must-have mirror quality and premium alternative bags for Gen Z and social media lovers. Discover influencer favorites, eco-friendly picks, and affordable luxury trends."
 categories: ["Must-Have List"]
 tags: ["2025 must-have mirror quality bags", "Gen Z viral bag trends", "eco-friendly premium alternatives", "influencer favorite handbags", "affordable luxury picks 2025", "social media bag recommendations"]
@@ -37,7 +37,7 @@ Gen Z shoppers want affordable, high-quality bags that stand out online. For mor
   "description": "See the 2025 must-have mirror quality and premium alternative bags for Gen Z and social media lovers. Discover influencer favorites, eco-friendly picks, and affordable luxury trends.",
   "image": "https://luxvibeo.com/uploads/must-have-list-2025-3.jpg",
   "author": {"@type": "Organization", "name": "LuxVibe"},
-  "datePublished": "2025-06-02",
+  "datePublished": "2024-03-19",
   "articleSection": "Must-Have List",
   "keywords": "2025 must-have mirror quality bags, Gen Z viral bag trends, eco-friendly premium alternatives, influencer favorite handbags, affordable luxury picks 2025, social media bag recommendations"
 }
